@@ -396,6 +396,10 @@ nav li:nth-of-type(13) {
     transform: rotate(45deg) translate(-8.5px, -10px);
 }
 
+.change .nav-bars {
+    display: inline-block;
+}
+
 @media screen and (max-width: 1070px) {
     .options>* {
         display: none;
